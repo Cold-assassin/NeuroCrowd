@@ -219,4 +219,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-gate 6 and 7 bar is not coming and like after redirecting it showed turn again green instead of red and use your creativty also you want
